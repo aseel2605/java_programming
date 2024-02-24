@@ -1,0 +1,11 @@
+//This program is used to print "Hello", "Hello Bye".
+import java.io.*;
+class Demo1
+{
+  public static void main(String args[])
+  {
+    System.out.print("Hello\n");
+    System.out.println("HELLO"+"\t"+"BYE");
+    System.out.printf("HELLO");
+  }//main
+}//Demo1
